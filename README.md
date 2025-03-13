@@ -44,7 +44,7 @@ IOT를 이용한 산업용 AI키오스크
 
 Python 얼굴인식 및 연령대 인식 (PythonScript) : 김수영
 
--개발자 외에, 타인의 Git에 올리는 것을 금지합니다 - 
+
 
 **#References**
 
@@ -59,4 +59,6 @@ Apache Maven Project - Settings Reference http://maven.apache.org/settings.html
 Google Cloud SDK 설치 | Cloud SDK 문서 https://cloud.google.com/sdk/install?hl=ko
 
 Apache Commons https://commons.apache.org/
+
+
 
